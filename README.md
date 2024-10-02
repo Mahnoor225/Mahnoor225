@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm comming to teen
 
 <p align="right">
-  <img src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="Description" style="width: 200px; height: auto;" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="Description" style="width: 300px; top:30px; height: auto;" />
 </p>
 ### Connect with me:
 <div id="badges">
