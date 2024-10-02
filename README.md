@@ -7,7 +7,7 @@
 - 💬 Ask me anything about Mern Stack 
 - 📫 How to reach me: mahnoormehboob225@gmail.com
 - ⚡ Fun fact: I'm comming to teen
-- 😄 My website: https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/?trk=opento_sprofile_details
+- 😄 My website: https://www.linkedin.com
 
 <p align="right">
   <img src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ" alt="Description" style="width: 300px; height: auto;" />
