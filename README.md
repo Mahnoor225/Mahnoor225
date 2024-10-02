@@ -9,7 +9,7 @@
 - 😄 My website: https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/?trk=opento_sprofile_details
 - ⚡ Fun fact: I'm comming to teen
 
- <p align="left"><img src="![image](https://github.com/user-attachments/assets/278d56d9-05b5-4dd8-ad03-a5e9560066a7)
+ <p align="left"><img src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo
 "/></p>
 ### Connect with me:
 <div id="badges">
