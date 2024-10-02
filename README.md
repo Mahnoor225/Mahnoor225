@@ -8,7 +8,9 @@
 - 📫 How to reach me: mahnoormehboob225@gmail.com
 - 😄 My website: https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/?trk=opento_sprofile_details
 - ⚡ Fun fact: I'm comming to teen
-  
+
+ <p align="left"><img src="![image](https://github.com/user-attachments/assets/278d56d9-05b5-4dd8-ad03-a5e9560066a7)
+"/></p>
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Mahnoor225">
