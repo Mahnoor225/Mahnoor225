@@ -16,7 +16,7 @@
   </a>
   <a href="www.linkedin.com/in/
 mahnoor-mehboob-18120b2b2">
-    <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/?trk=opento_sprofile_details)" alt="linkedin Badge"/>
+    <img src="https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/?trk=opento_sprofile_details" alt="linkedin Badge"/>
   </a>
    <a href="https://www.instagram.com/axif_taj">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -30,7 +30,7 @@ mahnoor-mehboob-18120b2b2">
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react.js,Next.js,monogdb,github,git,postman,figma,tailwaindcss)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
