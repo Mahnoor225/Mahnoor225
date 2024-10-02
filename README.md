@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/">
-    <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin Badge"/>
   </a>
    <a href="https://www.instagram.com/axif_taj">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
