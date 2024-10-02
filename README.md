@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Mern Stack 
 - 📫 How to reach me: mahnoormehboob225@gmail.com
-- 😄 My website: https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/?trk=opento_sprofile_details
 - ⚡ Fun fact: I'm comming to teen
 
 <p align="right">
